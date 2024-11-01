@@ -1,0 +1,22 @@
+.vibrate{
+	background: #F5F5F5;
+	opacity: 2.5;
+	border: 3px double #464646;
+	z-index: 909090909090909090909090909090;
+}
+.vibrate span{
+	margin: 10px;
+  display: block
+}
+.vibratebase {
+    width: 100000px;
+    height: 100000px;
+    background-color: #cccccc;
+    position:absolute;
+    opacity: 0.5;
+    overflow:hidden;
+}
+.vibrate-button{
+	margin:10px;
+  float:right;
+}
